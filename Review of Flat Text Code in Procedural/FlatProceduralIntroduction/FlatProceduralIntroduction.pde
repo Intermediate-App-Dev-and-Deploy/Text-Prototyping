@@ -30,7 +30,7 @@ void flatText()
   String[] fontList = PFont.list(); //To list all fonts available on system
    printArray(fontList); //For listing all possible fonts to choose, then createFont
    */
-  titleFont = createFont ("Harrington", 55); //Verify font exists
+  PFont titleFont = createFont ("Harrington", 55); //Verify font exists
   //Tools / Create Font / Find Font / Do Not Press "OK", known bug
   //Layout with a rect()
   fill(purpleInk); //Ink, hexidecimal copied from Color Selector
