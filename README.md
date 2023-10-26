@@ -10,3 +10,10 @@ Two Sections
 - Explain the flat code
 - Explain the flat code into procedural
 - Explain the font calculator
+
+---
+
+Adjust Lesson to download .ttf files from Google Fonts
+- introduces ability to use Internet based fonts
+
+---
